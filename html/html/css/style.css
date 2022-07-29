@@ -255,6 +255,7 @@ section.card-section .card ul {
 section.card-section .card ul li {
     position: relative;
     margin-bottom: 14px;
+    text-align: left;
 }
 
 section.card-section .card ul li::before {
